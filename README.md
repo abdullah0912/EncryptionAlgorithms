@@ -1,7 +1,9 @@
 # ***Encryption Algorithms App***
 
 #### This project is a basic Encryption App, it contains the basics of Encryption Algorithms
-- ***EX: ASCII, Caesar, 1 to base 64 and Hill Encryption Algorithm types***
+- ***EX: ASCII, Caesar, 1 to base 64 and Hill Encryption Algorithm types.***
+- ***I also used GUNA UI framework and Circular Progress Bar in this project.***
+- ***For more info about GUNA UI framework 👉 [Link](https://gunaui.com/)***
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/88820048/174043324-5627459c-1851-42f0-a734-2e5b69901994.png)
 
