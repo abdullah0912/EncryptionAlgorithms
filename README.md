@@ -1,4 +1,4 @@
-# ***Encryption Algorithms App***
+# ***Encryption App***
 
 #### This project is a basic Encryption App, it contains the basics of Encryption Algorithms
 - ***EX: ASCII, Caesar, 1 to base 64 and Hill Encryption Algorithm types.***
